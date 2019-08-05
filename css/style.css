@@ -74,6 +74,12 @@ body {
 	color: #fff;
 }
 
+.stats-text {
+	color: #000;
+	text-transform: uppercase;
+	padding-bottom: 40px;
+}
+
 .skill {
 	text-align: center;
 	margin-left: 10px;
